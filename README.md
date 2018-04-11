@@ -1,2 +1,2 @@
-# aws
-aws data
+comments removed
+text describing vivaldi
